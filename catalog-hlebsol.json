@@ -1,0 +1,192 @@
+{
+  "store": "ХлебСоль",
+  "city": "Иркутск",
+  "location": "Зона каталога: Тимирязева, 21",
+  "source": "https://hlebsol.online",
+  "capturedAt": "2026-11-25T01:53:05.049Z",
+  "mode": "snapshot",
+  "priceType": "base-before-promotions",
+  "automaticUpdates": false,
+  "products": [
+    {
+      "ingredient": "oats",
+      "id": "168680",
+      "name": "Хлопья овсяные Геркулес 1кг фасованные",
+      "size": 1000,
+      "price": 42.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://hlebsol.online/product/168680"
+    },
+    {
+      "ingredient": "rice",
+      "id": "10029739",
+      "name": "Рис шлифованный СТМ, вес",
+      "size": 1000,
+      "price": 53.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/10029739"
+    },
+    {
+      "ingredient": "buckwheat",
+      "id": "186221",
+      "name": "Крупа гречневая, вес",
+      "size": 1000,
+      "price": 54.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/186221"
+    },
+    {
+      "ingredient": "pasta",
+      "id": "10060016",
+      "name": "Макароны Выручай Перья группа А в/с 400 гр",
+      "size": 400,
+      "price": 38.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://hlebsol.online/product/10060016"
+    },
+    {
+      "ingredient": "milk",
+      "id": "10016598",
+      "name": "Молоко Филимоново 2,5% 1 л",
+      "size": 1000,
+      "price": 79.99,
+      "unit": "мл",
+      "weighted": false,
+      "url": "https://hlebsol.online/product/10016598"
+    },
+    {
+      "ingredient": "egg",
+      "id": "10013599",
+      "name": "Яйцо куриное С2 СТМ ХлебСоль 15 шт",
+      "size": 15,
+      "price": 119.85,
+      "unit": "шт",
+      "weighted": false,
+      "url": "https://hlebsol.online/product/10013599"
+    },
+    {
+      "ingredient": "potato",
+      "id": "10013015",
+      "name": "Картофель желтый отборный, кг",
+      "size": 1000,
+      "price": 46.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/10013015"
+    },
+    {
+      "ingredient": "carrot",
+      "id": "10009280",
+      "name": "Морковь, кг",
+      "size": 1000,
+      "price": 37.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/10009280"
+    },
+    {
+      "ingredient": "onion",
+      "id": "117081",
+      "name": "Лук репчатый, кг",
+      "size": 1000,
+      "price": 46.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/117081"
+    },
+    {
+      "ingredient": "cabbage",
+      "id": "105153",
+      "name": "Капуста белокочанная, кг",
+      "size": 1000,
+      "price": 36.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/105153"
+    },
+    {
+      "ingredient": "tomato",
+      "id": "10006587",
+      "name": "Томаты тепличные Россия, кг",
+      "size": 1000,
+      "price": 259.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/10006587"
+    },
+    {
+      "ingredient": "cucumber",
+      "id": "10006586",
+      "name": "Огурцы Мева, кг",
+      "size": 1000,
+      "price": 169.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/10006586"
+    },
+    {
+      "ingredient": "apple",
+      "id": "10014784",
+      "name": "Яблоки первая цена, кг",
+      "size": 1000,
+      "price": 99.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/10014784"
+    },
+    {
+      "ingredient": "banana",
+      "id": "04420",
+      "name": "Банан Эквадор, кг",
+      "size": 1000,
+      "price": 174.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/04420"
+    },
+    {
+      "ingredient": "chicken",
+      "id": "10016548",
+      "name": "Филе куриное замороженное на подложке, кг",
+      "size": 1000,
+      "price": 599.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://hlebsol.online/product/10016548"
+    },
+    {
+      "ingredient": "beans",
+      "id": "10033649",
+      "name": "Фасоль Простой выбор белая натуральная 360 гр",
+      "size": 360,
+      "price": 50.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://hlebsol.online/product/10033649"
+    },
+    {
+      "ingredient": "fish",
+      "id": "10035756",
+      "name": "Минтай Бореалис филе блочное без кожи без костей 300 гр",
+      "size": 300,
+      "price": 349.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://hlebsol.online/product/10035756"
+    },
+    {
+      "ingredient": "yogurt",
+      "id": "10061905",
+      "name": "Йогурт греческий Любимо 2,5% 140 гр",
+      "size": 140,
+      "price": 49.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://hlebsol.online/product/10061905"
+    }
+  ]
+}
