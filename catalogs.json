@@ -1,0 +1,991 @@
+{
+  "Слата": {
+    "store": "Слата",
+    "city": "Иркутск",
+    "source": "https://shop.slata.com",
+    "capturedAt": "2026-11-25T01:26:55.845Z",
+    "mode": "snapshot",
+    "priceType": "regular",
+    "automaticUpdates": false,
+    "products": [
+      {
+        "ingredient": "oats",
+        "id": "10056049",
+        "name": "Хлопья овсяные Селяночка №3 быстроразваривающиеся 350 гр",
+        "size": 350,
+        "price": 49.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10056049"
+      },
+      {
+        "ingredient": "milk",
+        "id": "07342",
+        "name": "Молоко Российское Янта 2.5% 1л п/п БЗМЖ",
+        "size": 1000,
+        "price": 99.99,
+        "unit": "мл",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/07342"
+      },
+      {
+        "ingredient": "apple",
+        "id": "10014784",
+        "name": "Яблоки первая цена, кг",
+        "size": 1000,
+        "price": 104.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://shop.slata.com/product/10014784"
+      },
+      {
+        "ingredient": "rice",
+        "id": "10055636",
+        "name": "Рис пропаренный Тендер 800 гр",
+        "size": 800,
+        "price": 67.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10055636"
+      },
+      {
+        "ingredient": "chicken",
+        "id": "10047777",
+        "name": "Филе куриное Иркурочкино замороженное",
+        "size": 1000,
+        "price": 599.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://shop.slata.com/product/10047777"
+      },
+      {
+        "ingredient": "carrot",
+        "id": "10009280",
+        "name": "Морковь, кг",
+        "size": 1000,
+        "price": 34.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://shop.slata.com/product/10009280"
+      },
+      {
+        "ingredient": "potato",
+        "id": "10013015",
+        "name": "Картофель желтый отборный, кг",
+        "size": 1000,
+        "price": 59.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://shop.slata.com/product/10013015"
+      },
+      {
+        "ingredient": "onion",
+        "id": "117081",
+        "name": "Лук Репчатый, кг",
+        "size": 1000,
+        "price": 35.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://shop.slata.com/product/117081"
+      },
+      {
+        "ingredient": "lentil",
+        "id": "10056043",
+        "name": "Чечевица Global Village красная 450 гр",
+        "size": 450,
+        "price": 103.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10056043"
+      },
+      {
+        "ingredient": "pasta",
+        "id": "10019375",
+        "name": "Макароны Макфа Триколлини свитки 450 г",
+        "size": 450,
+        "price": 96.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10019375"
+      },
+      {
+        "ingredient": "tomato",
+        "id": "10006587",
+        "name": "Томаты тепличные Россия, кг",
+        "size": 1000,
+        "price": 189.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://shop.slata.com/product/10006587"
+      },
+      {
+        "ingredient": "egg",
+        "id": "10026022",
+        "name": "Яйцо куриное пищевое столовое 2 категории Простой выбор 10шт",
+        "size": 10,
+        "price": 104.9,
+        "unit": "шт",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10026022"
+      },
+      {
+        "ingredient": "buckwheat",
+        "id": "10020985",
+        "name": "Гречка Мистраль ядрица 900г",
+        "size": 900,
+        "price": 166.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10020985"
+      },
+      {
+        "ingredient": "fish",
+        "id": "10035753",
+        "name": "Минтай Бореалис филе без кожи с/м 650 гр м/у",
+        "size": 650,
+        "price": 859.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10035753"
+      },
+      {
+        "ingredient": "beans",
+        "id": "10055385",
+        "name": "Фасоль Global Village белая в с/с 400 гр ключ ж/б",
+        "size": 400,
+        "price": 114.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10055385"
+      },
+      {
+        "ingredient": "banana",
+        "id": "04420",
+        "name": "Банан Эквадор, кг",
+        "size": 1000,
+        "price": 174.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://shop.slata.com/product/04420"
+      },
+      {
+        "ingredient": "yogurt",
+        "id": "10060282",
+        "name": "Йогурт Греческий Янта 10% 190 гр БЗМЖ",
+        "size": 190,
+        "price": 94.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10060282"
+      },
+      {
+        "ingredient": "cucumber",
+        "id": "10006586",
+        "name": "Огурцы Мева, кг",
+        "size": 1000,
+        "price": 169.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://shop.slata.com/product/10006586"
+      },
+      {
+        "ingredient": "nuts",
+        "id": "10019062",
+        "name": "Орех гецкий очищенный 200 г",
+        "size": 200,
+        "price": 269.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://shop.slata.com/product/10019062"
+      }
+    ]
+  },
+  "METRO": {
+    "store": "METRO",
+    "city": "Иркутск",
+    "location": "Розы Люксембург, 365 · самовывоз",
+    "source": "https://online.metro-cc.ru",
+    "capturedAt": "2026-11-25T01:46:16.326Z",
+    "mode": "snapshot",
+    "priceType": "base-before-promotions",
+    "automaticUpdates": false,
+    "products": [
+      {
+        "ingredient": "oats",
+        "name": "Хлопья овсяные Makfa, 400г",
+        "size": 400,
+        "price": 85.9,
+        "unit": "г",
+        "weighted": false,
+        "id": "hlopya-ovsyanye-makfa-400g",
+        "url": "https://online.metro-cc.ru/products/hlopya-ovsyanye-makfa-400g"
+      },
+      {
+        "ingredient": "milk",
+        "name": "Молоко Эконива Профессиональная линия ультрапастеризованное 2.5%, 1л",
+        "size": 1000,
+        "price": 122,
+        "unit": "мл",
+        "weighted": false,
+        "id": "1l-moloko-25-ekoniva-professional-line-bzmzh",
+        "url": "https://online.metro-cc.ru/products/1l-moloko-25-ekoniva-professional-line-bzmzh"
+      },
+      {
+        "ingredient": "apple",
+        "name": "Яблоки Роял Гала",
+        "size": 1000,
+        "price": 172,
+        "unit": "г",
+        "weighted": true,
+        "id": "yabloki-gala-470370",
+        "url": "https://online.metro-cc.ru/products/yabloki-gala-470370"
+      },
+      {
+        "ingredient": "rice",
+        "name": "Крупа рис Мистраль Краснодар, 900г",
+        "size": 900,
+        "price": 196,
+        "unit": "г",
+        "weighted": false,
+        "id": "ris-mistral-krasnodar-900g-64908",
+        "url": "https://online.metro-cc.ru/products/ris-mistral-krasnodar-900g-64908"
+      },
+      {
+        "ingredient": "chicken",
+        "name": "Филе грудки цыпленка-бройлера Саянский бройлер охлажденное",
+        "size": 1000,
+        "price": 569,
+        "unit": "г",
+        "weighted": true,
+        "id": "file-grudki-sayanskij-brojler",
+        "url": "https://online.metro-cc.ru/products/file-grudki-sayanskij-brojler"
+      },
+      {
+        "ingredient": "carrot",
+        "name": "Морковь весовая",
+        "size": 1000,
+        "price": 49.9,
+        "unit": "г",
+        "weighted": true,
+        "id": "morkov-kg",
+        "url": "https://online.metro-cc.ru/products/morkov-kg"
+      },
+      {
+        "ingredient": "potato",
+        "name": "METRO Chef Картофель Беби, 2кг",
+        "size": 2000,
+        "price": 179,
+        "unit": "г",
+        "weighted": false,
+        "id": "metro-chef-kartofel-bebi-25mm-40mm-2kg",
+        "url": "https://online.metro-cc.ru/products/metro-chef-kartofel-bebi-25mm-40mm-2kg"
+      },
+      {
+        "ingredient": "onion",
+        "name": "Лук репчатый",
+        "size": 1000,
+        "price": 50.9,
+        "unit": "г",
+        "weighted": true,
+        "id": "luk-repchatyj-470350",
+        "url": "https://online.metro-cc.ru/products/luk-repchatyj-470350"
+      },
+      {
+        "ingredient": "lentil",
+        "name": "METRO Chef Чечевица красная, 450г",
+        "size": 450,
+        "price": 141,
+        "unit": "г",
+        "weighted": false,
+        "id": "450g-chechevica-metro-chef-krasnaya",
+        "url": "https://online.metro-cc.ru/products/450g-chechevica-metro-chef-krasnaya"
+      },
+      {
+        "ingredient": "pasta",
+        "name": "Макароны спагетти Makfa №16 высший сорт, 450г",
+        "size": 450,
+        "price": 79.9,
+        "unit": "г",
+        "weighted": false,
+        "id": "spagetti-makfa-450g",
+        "url": "https://online.metro-cc.ru/products/spagetti-makfa-450g"
+      },
+      {
+        "ingredient": "tomato",
+        "name": "Томаты весовые",
+        "size": 1000,
+        "price": 273,
+        "unit": "г",
+        "weighted": true,
+        "id": "tomaty-567204",
+        "url": "https://online.metro-cc.ru/products/tomaty-567204"
+      },
+      {
+        "ingredient": "egg",
+        "name": "Яйцо куриное Усть-Абаканская ПФ Молодка С2, 10шт",
+        "size": 10,
+        "price": 156,
+        "unit": "шт",
+        "weighted": false,
+        "id": "10sht-yaytso-kurinoe-s2-ust-abakanskaya-pf-molodka",
+        "url": "https://online.metro-cc.ru/products/10sht-yaytso-kurinoe-s2-ust-abakanskaya-pf-molodka"
+      },
+      {
+        "ingredient": "buckwheat",
+        "name": "aro Крупа гречневая, 1кг",
+        "size": 1000,
+        "price": 60.9,
+        "unit": "г",
+        "weighted": false,
+        "id": "aro-krupa-grechnevaya-1kg",
+        "url": "https://online.metro-cc.ru/products/aro-krupa-grechnevaya-1kg"
+      },
+      {
+        "ingredient": "cabbage",
+        "name": "Капуста белокочанная",
+        "size": 1000,
+        "price": 50.9,
+        "unit": "г",
+        "weighted": true,
+        "id": "kapusta-belokachannaya-vesovaya-1-kg-557197",
+        "url": "https://online.metro-cc.ru/products/kapusta-belokachannaya-vesovaya-1-kg-557197"
+      },
+      {
+        "ingredient": "fish",
+        "name": "Минтай Borealis тихоокеанский филе свежемороженый, 750г",
+        "size": 750,
+        "price": 809,
+        "unit": "г",
+        "weighted": false,
+        "id": "mintay-borealis-tihookeanskiy-file-svezhemorozhennyy-750g",
+        "url": "https://online.metro-cc.ru/products/mintay-borealis-tihookeanskiy-file-svezhemorozhennyy-750g"
+      },
+      {
+        "ingredient": "beans",
+        "name": "aro Фасоль белая Натуральная, 400г",
+        "size": 400,
+        "price": 79.9,
+        "unit": "г",
+        "weighted": false,
+        "id": "aro-fasol-belaya-naturalnaya-420g",
+        "url": "https://online.metro-cc.ru/products/aro-fasol-belaya-naturalnaya-420g"
+      },
+      {
+        "ingredient": "banana",
+        "name": "Бананы весовые",
+        "size": 1000,
+        "price": 199,
+        "unit": "г",
+        "weighted": true,
+        "id": "banany-vesovye-557198",
+        "url": "https://online.metro-cc.ru/products/banany-vesovye-557198"
+      },
+      {
+        "ingredient": "yogurt",
+        "name": "Йогурт греческий Teos натуральный 2%, 250г",
+        "size": 250,
+        "price": 95.9,
+        "unit": "г",
+        "weighted": false,
+        "id": "savushkin-grecheskij-teos-2-250g-bzmzh",
+        "url": "https://online.metro-cc.ru/products/savushkin-grecheskij-teos-2-250g-bzmzh"
+      },
+      {
+        "ingredient": "cucumber",
+        "name": "Огурцы гладкие",
+        "size": 1000,
+        "price": 188,
+        "unit": "г",
+        "weighted": true,
+        "id": "ogurcy-gladkie-vesovye-1-kg",
+        "url": "https://online.metro-cc.ru/products/ogurcy-gladkie-vesovye-1-kg"
+      },
+      {
+        "ingredient": "nuts",
+        "name": "METRO Chef Грецкий орех очищенный, 150г",
+        "size": 150,
+        "price": 261,
+        "unit": "г",
+        "weighted": false,
+        "id": "150g-greckij-metro-chef-ochischennyj",
+        "url": "https://online.metro-cc.ru/products/150g-greckij-metro-chef-ochischennyj"
+      }
+    ]
+  },
+  "ХлебСоль": {
+    "store": "ХлебСоль",
+    "city": "Иркутск",
+    "location": "Зона каталога: Тимирязева, 21",
+    "source": "https://hlebsol.online",
+    "capturedAt": "2026-11-25T01:53:05.049Z",
+    "mode": "snapshot",
+    "priceType": "base-before-promotions",
+    "automaticUpdates": false,
+    "products": [
+      {
+        "ingredient": "oats",
+        "id": "168680",
+        "name": "Хлопья овсяные Геркулес 1кг фасованные",
+        "size": 1000,
+        "price": 42.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://hlebsol.online/product/168680"
+      },
+      {
+        "ingredient": "rice",
+        "id": "10029739",
+        "name": "Рис шлифованный СТМ, вес",
+        "size": 1000,
+        "price": 53.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/10029739"
+      },
+      {
+        "ingredient": "buckwheat",
+        "id": "186221",
+        "name": "Крупа гречневая, вес",
+        "size": 1000,
+        "price": 54.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/186221"
+      },
+      {
+        "ingredient": "pasta",
+        "id": "10060016",
+        "name": "Макароны Выручай Перья группа А в/с 400 гр",
+        "size": 400,
+        "price": 38.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://hlebsol.online/product/10060016"
+      },
+      {
+        "ingredient": "milk",
+        "id": "10016598",
+        "name": "Молоко Филимоново 2,5% 1 л",
+        "size": 1000,
+        "price": 79.99,
+        "unit": "мл",
+        "weighted": false,
+        "url": "https://hlebsol.online/product/10016598"
+      },
+      {
+        "ingredient": "egg",
+        "id": "10013599",
+        "name": "Яйцо куриное С2 СТМ ХлебСоль 15 шт",
+        "size": 15,
+        "price": 119.85,
+        "unit": "шт",
+        "weighted": false,
+        "url": "https://hlebsol.online/product/10013599"
+      },
+      {
+        "ingredient": "potato",
+        "id": "10013015",
+        "name": "Картофель желтый отборный, кг",
+        "size": 1000,
+        "price": 46.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/10013015"
+      },
+      {
+        "ingredient": "carrot",
+        "id": "10009280",
+        "name": "Морковь, кг",
+        "size": 1000,
+        "price": 37.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/10009280"
+      },
+      {
+        "ingredient": "onion",
+        "id": "117081",
+        "name": "Лук репчатый, кг",
+        "size": 1000,
+        "price": 46.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/117081"
+      },
+      {
+        "ingredient": "cabbage",
+        "id": "105153",
+        "name": "Капуста белокочанная, кг",
+        "size": 1000,
+        "price": 36.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/105153"
+      },
+      {
+        "ingredient": "tomato",
+        "id": "10006587",
+        "name": "Томаты тепличные Россия, кг",
+        "size": 1000,
+        "price": 259.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/10006587"
+      },
+      {
+        "ingredient": "cucumber",
+        "id": "10006586",
+        "name": "Огурцы Мева, кг",
+        "size": 1000,
+        "price": 169.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/10006586"
+      },
+      {
+        "ingredient": "apple",
+        "id": "10014784",
+        "name": "Яблоки первая цена, кг",
+        "size": 1000,
+        "price": 99.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/10014784"
+      },
+      {
+        "ingredient": "banana",
+        "id": "04420",
+        "name": "Банан Эквадор, кг",
+        "size": 1000,
+        "price": 174.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/04420"
+      },
+      {
+        "ingredient": "chicken",
+        "id": "10016548",
+        "name": "Филе куриное замороженное на подложке, кг",
+        "size": 1000,
+        "price": 599.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://hlebsol.online/product/10016548"
+      },
+      {
+        "ingredient": "beans",
+        "id": "10033649",
+        "name": "Фасоль Простой выбор белая натуральная 360 гр",
+        "size": 360,
+        "price": 50.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://hlebsol.online/product/10033649"
+      },
+      {
+        "ingredient": "fish",
+        "id": "10035756",
+        "name": "Минтай Бореалис филе блочное без кожи без костей 300 гр",
+        "size": 300,
+        "price": 349.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://hlebsol.online/product/10035756"
+      },
+      {
+        "ingredient": "yogurt",
+        "id": "10061905",
+        "name": "Йогурт греческий Любимо 2,5% 140 гр",
+        "size": 140,
+        "price": 49.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://hlebsol.online/product/10061905"
+      }
+    ]
+  },
+  "Лента": {
+    "store": "Лента",
+    "city": "Иркутск",
+    "location": "Иркутск, Франк-Каменецкого, 13/1",
+    "source": "https://lenta.com",
+    "capturedAt": "2026-11-25T01:53:05.063Z",
+    "mode": "snapshot",
+    "priceType": "without-loyalty",
+    "automaticUpdates": false,
+    "products": [
+      {
+        "ingredient": "oats",
+        "id": "hlopya-ovsyanye-gerkules-12-mesyacev-rossiya-400g-109708/",
+        "name": "Хлопья овсяные PASSIM Геркулес 12 месяцев 400г",
+        "size": 400,
+        "price": 59.99,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://lenta.com/product/hlopya-ovsyanye-gerkules-12-mesyacev-rossiya-400g-109708/"
+      },
+      {
+        "ingredient": "rice",
+        "id": "ris-kruglozernyjj-1-sort-rossiya-1000g-710444/",
+        "name": "Рис круглозерный ЛЕНТА 1-й сорт 1000г",
+        "size": 1000,
+        "price": 136.84,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://lenta.com/product/ris-kruglozernyjj-1-sort-rossiya-1000g-710444/"
+      },
+      {
+        "ingredient": "buckwheat",
+        "id": "krupa-grechnevaya-rossiya-1000g-710673/",
+        "name": "Крупа гречневая ЛЕНТА 1000г",
+        "size": 1000,
+        "price": 89.47,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://lenta.com/product/krupa-grechnevaya-rossiya-1000g-710673/"
+      },
+      {
+        "ingredient": "pasta",
+        "id": "makarony-spirali-gra-vs-rossiya-450g-117806/",
+        "name": "Макароны MAKFA Спирали высший сорт 450г",
+        "size": 450,
+        "price": 68.39,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://lenta.com/product/makarony-spirali-gra-vs-rossiya-450g-117806/"
+      },
+      {
+        "ingredient": "milk",
+        "id": "moloko-past-pitevoe-25-pet-bez-zmzh-rossiya-930ml-80424/",
+        "name": "Молоко пастеризованное ПРОСТОКВАШИНО 2,5% 930мл",
+        "size": 930,
+        "price": 110.49,
+        "unit": "мл",
+        "weighted": false,
+        "url": "https://lenta.com/product/moloko-past-pitevoe-25-pet-bez-zmzh-rossiya-930ml-80424/"
+      },
+      {
+        "ingredient": "egg",
+        "id": "yajjco-kurinoe-s1-rossiya-10sht-144782/",
+        "name": "Яйцо куриное 365 ДНЕЙ С1 10шт",
+        "size": 10,
+        "price": 147.39,
+        "unit": "шт",
+        "weighted": false,
+        "url": "https://lenta.com/product/yajjco-kurinoe-s1-rossiya-10sht-144782/"
+      },
+      {
+        "ingredient": "potato",
+        "id": "kartofel-ves-1kg-300886/",
+        "name": "Картофель, весовой",
+        "size": 1000,
+        "price": 48.2,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://lenta.com/product/kartofel-ves-1kg-300886/"
+      },
+      {
+        "ingredient": "carrot",
+        "id": "morkov-ves-1kg-303639/",
+        "name": "Морковь, весовая 0,5 кг",
+        "size": 500,
+        "price": 23.47,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://lenta.com/product/morkov-ves-1kg-303639/"
+      },
+      {
+        "ingredient": "onion",
+        "id": "luk-repchatyjj-ves-1kg-303640/",
+        "name": "Лук репчатый, весовой 0,5 кг",
+        "size": 500,
+        "price": 21.95,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://lenta.com/product/luk-repchatyjj-ves-1kg-303640/"
+      },
+      {
+        "ingredient": "cabbage",
+        "id": "kapusta-belokochannaya-ves-11189/",
+        "name": "Капуста белокочанная, цена за 1 кг",
+        "size": 1000,
+        "price": 45.68,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://lenta.com/product/kapusta-belokochannaya-ves-11189/"
+      },
+      {
+        "ingredient": "tomato",
+        "id": "tomaty-teplichnye-ves-rossiya-135324/",
+        "name": "Томаты тепличные, весовые 0,5 кг",
+        "size": 500,
+        "price": 128.95,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://lenta.com/product/tomaty-teplichnye-ves-rossiya-135324/"
+      },
+      {
+        "ingredient": "cucumber",
+        "id": "ogurcy-sredneplodnye-gladkie-ves-162743/",
+        "name": "Огурцы среднеплодные гладкие, весовые 0,5 кг",
+        "size": 500,
+        "price": 107.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://lenta.com/product/ogurcy-sredneplodnye-gladkie-ves-162743/"
+      },
+      {
+        "ingredient": "apple",
+        "id": "yabloki-gala-novyjj-urozhajj-ves-1kg-305270/",
+        "name": "Яблоки Гала, весовые 0,7 кг",
+        "size": 700,
+        "price": 151.05,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://lenta.com/product/yabloki-gala-novyjj-urozhajj-ves-1kg-305270/"
+      },
+      {
+        "ingredient": "banana",
+        "id": "banany-ves-11230/",
+        "name": "Бананы, цена за 1 кг",
+        "size": 1000,
+        "price": 273.68,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://lenta.com/product/banany-ves-11230/"
+      },
+      {
+        "ingredient": "chicken",
+        "id": "file-kurinoe-ohl-podlozhka-ves-rossiya-366090/",
+        "name": "Филе куриное САЯНСКИЙ БРОЙЛЕР, цена за 1 кг",
+        "size": 1000,
+        "price": 647.39,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://lenta.com/product/file-kurinoe-ohl-podlozhka-ves-rossiya-366090/"
+      },
+      {
+        "ingredient": "fish",
+        "id": "mintajj-tihookeanskijj-file-bk-rossiya-300g-616234/",
+        "name": "Минтай замороженный BOREALIS филе без кожи 300г",
+        "size": 300,
+        "price": 284.29,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://lenta.com/product/mintajj-tihookeanskijj-file-bk-rossiya-300g-616234/"
+      }
+    ]
+  },
+  "Абсолют": {
+    "store": "Абсолют",
+    "city": "Иркутск",
+    "location": "Иркутск, Лермонтова, 34 · самовывоз",
+    "source": "https://tgabsolut.shop",
+    "capturedAt": "2026-11-25T02:09:25.085Z",
+    "mode": "snapshot",
+    "priceType": "base-before-promotions",
+    "automaticUpdates": false,
+    "products": [
+      {
+        "ingredient": "rice",
+        "name": "Рис длиннозерный 800гр",
+        "size": 800,
+        "price": 145.89,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://tgabsolut.shop/catalog?product=ris-dlinnozernyy-800gr-1-32",
+        "linkType": "product"
+      },
+      {
+        "ingredient": "oats",
+        "name": "Хлопья овсяные ПАССИМ 350гр м/у",
+        "size": 350,
+        "price": 49.89,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "milk",
+        "name": "Молоко СТОЛБОГАТ 2,5% 1л б/к",
+        "size": 1000,
+        "price": 91.89,
+        "unit": "мл",
+        "weighted": false,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "buckwheat",
+        "name": "Крупа гречневая 800гр",
+        "size": 800,
+        "price": 102.89,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "pasta",
+        "name": "Мак. изделия MAKFA Макароны длинные в/с 500гр (997) 1*12",
+        "size": 500,
+        "price": 119.89,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "apple",
+        "name": "Яблоки Казахстан",
+        "size": 1000,
+        "price": 139.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "potato",
+        "name": "Картофель местный Покупка д/семьи",
+        "size": 1000,
+        "price": 69.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "carrot",
+        "name": "Морковь местная собств-ное агрох-ство",
+        "size": 1000,
+        "price": 34.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "onion",
+        "name": "Лук репчатый Казахстан",
+        "size": 1000,
+        "price": 46.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "cucumber",
+        "name": "Огурцы Новосибирск вес",
+        "size": 1000,
+        "price": 164.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "tomato",
+        "name": "Помидоры КНР",
+        "size": 1000,
+        "price": 209.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "cabbage",
+        "name": "Капуста местная Иркутская обл",
+        "size": 1000,
+        "price": 33.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "fish",
+        "name": "Филе МИНТАЯ",
+        "size": 1000,
+        "price": 379.99,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "egg",
+        "name": "Яйцо АБСОЛЮТНО ДЛЯ ВСЕХ 1кат С1 10шт Улан-Удэнская птицефабрика",
+        "size": 10,
+        "price": 85.89,
+        "unit": "шт",
+        "weighted": false,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "lentil",
+        "name": "Чечевица УВЕЛКА красная 450гр",
+        "size": 450,
+        "price": 109.89,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "banana",
+        "name": "Бананы Эквадор",
+        "size": 1000,
+        "price": 169.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "chicken",
+        "name": "Филе ЦБ замороженное на подложке Саянск",
+        "size": 1000,
+        "price": 533.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "beans",
+        "name": "Фасоль АБСОЛЮТ CASH&CARRY красная в собст.соку ГОСТ ж/б с ключом 400гр",
+        "size": 400,
+        "price": 106.89,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "yogurt",
+        "name": "Йогурт САВУШКИН TEOS натуральный 2% 140гр",
+        "size": 140,
+        "price": 93.89,
+        "unit": "г",
+        "weighted": false,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      },
+      {
+        "ingredient": "nuts",
+        "name": "ГРЕЦКИЙ ОРЕХ в/с очищенный",
+        "size": 1000,
+        "price": 1163.89,
+        "unit": "г",
+        "weighted": true,
+        "url": "https://tgabsolut.shop/catalog",
+        "linkType": "catalog"
+      }
+    ]
+  }
+}
