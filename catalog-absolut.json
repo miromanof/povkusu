@@ -1,0 +1,212 @@
+{
+  "store": "Абсолют",
+  "city": "Иркутск",
+  "location": "Иркутск, Лермонтова, 34 · самовывоз",
+  "source": "https://tgabsolut.shop",
+  "capturedAt": "2026-11-25T02:09:25.085Z",
+  "mode": "snapshot",
+  "priceType": "base-before-promotions",
+  "automaticUpdates": false,
+  "products": [
+    {
+      "ingredient": "rice",
+      "name": "Рис длиннозерный 800гр",
+      "size": 800,
+      "price": 145.89,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://tgabsolut.shop/catalog?product=ris-dlinnozernyy-800gr-1-32",
+      "linkType": "product"
+    },
+    {
+      "ingredient": "oats",
+      "name": "Хлопья овсяные ПАССИМ 350гр м/у",
+      "size": 350,
+      "price": 49.89,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "milk",
+      "name": "Молоко СТОЛБОГАТ 2,5% 1л б/к",
+      "size": 1000,
+      "price": 91.89,
+      "unit": "мл",
+      "weighted": false,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "buckwheat",
+      "name": "Крупа гречневая 800гр",
+      "size": 800,
+      "price": 102.89,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "pasta",
+      "name": "Мак. изделия MAKFA Макароны длинные в/с 500гр (997) 1*12",
+      "size": 500,
+      "price": 119.89,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "apple",
+      "name": "Яблоки Казахстан",
+      "size": 1000,
+      "price": 139.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "potato",
+      "name": "Картофель местный Покупка д/семьи",
+      "size": 1000,
+      "price": 69.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "carrot",
+      "name": "Морковь местная собств-ное агрох-ство",
+      "size": 1000,
+      "price": 34.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "onion",
+      "name": "Лук репчатый Казахстан",
+      "size": 1000,
+      "price": 46.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "cucumber",
+      "name": "Огурцы Новосибирск вес",
+      "size": 1000,
+      "price": 164.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "tomato",
+      "name": "Помидоры КНР",
+      "size": 1000,
+      "price": 209.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "cabbage",
+      "name": "Капуста местная Иркутская обл",
+      "size": 1000,
+      "price": 33.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "fish",
+      "name": "Филе МИНТАЯ",
+      "size": 1000,
+      "price": 379.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "egg",
+      "name": "Яйцо АБСОЛЮТНО ДЛЯ ВСЕХ 1кат С1 10шт Улан-Удэнская птицефабрика",
+      "size": 10,
+      "price": 85.89,
+      "unit": "шт",
+      "weighted": false,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "lentil",
+      "name": "Чечевица УВЕЛКА красная 450гр",
+      "size": 450,
+      "price": 109.89,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "banana",
+      "name": "Бананы Эквадор",
+      "size": 1000,
+      "price": 169.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "chicken",
+      "name": "Филе ЦБ замороженное на подложке Саянск",
+      "size": 1000,
+      "price": 533.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "beans",
+      "name": "Фасоль АБСОЛЮТ CASH&CARRY красная в собст.соку ГОСТ ж/б с ключом 400гр",
+      "size": 400,
+      "price": 106.89,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "yogurt",
+      "name": "Йогурт САВУШКИН TEOS натуральный 2% 140гр",
+      "size": 140,
+      "price": 93.89,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    },
+    {
+      "ingredient": "nuts",
+      "name": "ГРЕЦКИЙ ОРЕХ в/с очищенный",
+      "size": 1000,
+      "price": 1163.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://tgabsolut.shop/catalog",
+      "linkType": "catalog"
+    }
+  ]
+}
