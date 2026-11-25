@@ -1,0 +1,212 @@
+{
+  "store": "METRO",
+  "city": "Иркутск",
+  "location": "Розы Люксембург, 365 · самовывоз",
+  "source": "https://online.metro-cc.ru",
+  "capturedAt": "2026-11-25T01:46:16.326Z",
+  "mode": "snapshot",
+  "priceType": "base-before-promotions",
+  "automaticUpdates": false,
+  "products": [
+    {
+      "ingredient": "oats",
+      "name": "Хлопья овсяные Makfa, 400г",
+      "size": 400,
+      "price": 85.9,
+      "unit": "г",
+      "weighted": false,
+      "id": "hlopya-ovsyanye-makfa-400g",
+      "url": "https://online.metro-cc.ru/products/hlopya-ovsyanye-makfa-400g"
+    },
+    {
+      "ingredient": "milk",
+      "name": "Молоко Эконива Профессиональная линия ультрапастеризованное 2.5%, 1л",
+      "size": 1000,
+      "price": 122,
+      "unit": "мл",
+      "weighted": false,
+      "id": "1l-moloko-25-ekoniva-professional-line-bzmzh",
+      "url": "https://online.metro-cc.ru/products/1l-moloko-25-ekoniva-professional-line-bzmzh"
+    },
+    {
+      "ingredient": "apple",
+      "name": "Яблоки Роял Гала",
+      "size": 1000,
+      "price": 172,
+      "unit": "г",
+      "weighted": true,
+      "id": "yabloki-gala-470370",
+      "url": "https://online.metro-cc.ru/products/yabloki-gala-470370"
+    },
+    {
+      "ingredient": "rice",
+      "name": "Крупа рис Мистраль Краснодар, 900г",
+      "size": 900,
+      "price": 196,
+      "unit": "г",
+      "weighted": false,
+      "id": "ris-mistral-krasnodar-900g-64908",
+      "url": "https://online.metro-cc.ru/products/ris-mistral-krasnodar-900g-64908"
+    },
+    {
+      "ingredient": "chicken",
+      "name": "Филе грудки цыпленка-бройлера Саянский бройлер охлажденное",
+      "size": 1000,
+      "price": 569,
+      "unit": "г",
+      "weighted": true,
+      "id": "file-grudki-sayanskij-brojler",
+      "url": "https://online.metro-cc.ru/products/file-grudki-sayanskij-brojler"
+    },
+    {
+      "ingredient": "carrot",
+      "name": "Морковь весовая",
+      "size": 1000,
+      "price": 49.9,
+      "unit": "г",
+      "weighted": true,
+      "id": "morkov-kg",
+      "url": "https://online.metro-cc.ru/products/morkov-kg"
+    },
+    {
+      "ingredient": "potato",
+      "name": "METRO Chef Картофель Беби, 2кг",
+      "size": 2000,
+      "price": 179,
+      "unit": "г",
+      "weighted": false,
+      "id": "metro-chef-kartofel-bebi-25mm-40mm-2kg",
+      "url": "https://online.metro-cc.ru/products/metro-chef-kartofel-bebi-25mm-40mm-2kg"
+    },
+    {
+      "ingredient": "onion",
+      "name": "Лук репчатый",
+      "size": 1000,
+      "price": 50.9,
+      "unit": "г",
+      "weighted": true,
+      "id": "luk-repchatyj-470350",
+      "url": "https://online.metro-cc.ru/products/luk-repchatyj-470350"
+    },
+    {
+      "ingredient": "lentil",
+      "name": "METRO Chef Чечевица красная, 450г",
+      "size": 450,
+      "price": 141,
+      "unit": "г",
+      "weighted": false,
+      "id": "450g-chechevica-metro-chef-krasnaya",
+      "url": "https://online.metro-cc.ru/products/450g-chechevica-metro-chef-krasnaya"
+    },
+    {
+      "ingredient": "pasta",
+      "name": "Макароны спагетти Makfa №16 высший сорт, 450г",
+      "size": 450,
+      "price": 79.9,
+      "unit": "г",
+      "weighted": false,
+      "id": "spagetti-makfa-450g",
+      "url": "https://online.metro-cc.ru/products/spagetti-makfa-450g"
+    },
+    {
+      "ingredient": "tomato",
+      "name": "Томаты весовые",
+      "size": 1000,
+      "price": 273,
+      "unit": "г",
+      "weighted": true,
+      "id": "tomaty-567204",
+      "url": "https://online.metro-cc.ru/products/tomaty-567204"
+    },
+    {
+      "ingredient": "egg",
+      "name": "Яйцо куриное Усть-Абаканская ПФ Молодка С2, 10шт",
+      "size": 10,
+      "price": 156,
+      "unit": "шт",
+      "weighted": false,
+      "id": "10sht-yaytso-kurinoe-s2-ust-abakanskaya-pf-molodka",
+      "url": "https://online.metro-cc.ru/products/10sht-yaytso-kurinoe-s2-ust-abakanskaya-pf-molodka"
+    },
+    {
+      "ingredient": "buckwheat",
+      "name": "aro Крупа гречневая, 1кг",
+      "size": 1000,
+      "price": 60.9,
+      "unit": "г",
+      "weighted": false,
+      "id": "aro-krupa-grechnevaya-1kg",
+      "url": "https://online.metro-cc.ru/products/aro-krupa-grechnevaya-1kg"
+    },
+    {
+      "ingredient": "cabbage",
+      "name": "Капуста белокочанная",
+      "size": 1000,
+      "price": 50.9,
+      "unit": "г",
+      "weighted": true,
+      "id": "kapusta-belokachannaya-vesovaya-1-kg-557197",
+      "url": "https://online.metro-cc.ru/products/kapusta-belokachannaya-vesovaya-1-kg-557197"
+    },
+    {
+      "ingredient": "fish",
+      "name": "Минтай Borealis тихоокеанский филе свежемороженый, 750г",
+      "size": 750,
+      "price": 809,
+      "unit": "г",
+      "weighted": false,
+      "id": "mintay-borealis-tihookeanskiy-file-svezhemorozhennyy-750g",
+      "url": "https://online.metro-cc.ru/products/mintay-borealis-tihookeanskiy-file-svezhemorozhennyy-750g"
+    },
+    {
+      "ingredient": "beans",
+      "name": "aro Фасоль белая Натуральная, 400г",
+      "size": 400,
+      "price": 79.9,
+      "unit": "г",
+      "weighted": false,
+      "id": "aro-fasol-belaya-naturalnaya-420g",
+      "url": "https://online.metro-cc.ru/products/aro-fasol-belaya-naturalnaya-420g"
+    },
+    {
+      "ingredient": "banana",
+      "name": "Бананы весовые",
+      "size": 1000,
+      "price": 199,
+      "unit": "г",
+      "weighted": true,
+      "id": "banany-vesovye-557198",
+      "url": "https://online.metro-cc.ru/products/banany-vesovye-557198"
+    },
+    {
+      "ingredient": "yogurt",
+      "name": "Йогурт греческий Teos натуральный 2%, 250г",
+      "size": 250,
+      "price": 95.9,
+      "unit": "г",
+      "weighted": false,
+      "id": "savushkin-grecheskij-teos-2-250g-bzmzh",
+      "url": "https://online.metro-cc.ru/products/savushkin-grecheskij-teos-2-250g-bzmzh"
+    },
+    {
+      "ingredient": "cucumber",
+      "name": "Огурцы гладкие",
+      "size": 1000,
+      "price": 188,
+      "unit": "г",
+      "weighted": true,
+      "id": "ogurcy-gladkie-vesovye-1-kg",
+      "url": "https://online.metro-cc.ru/products/ogurcy-gladkie-vesovye-1-kg"
+    },
+    {
+      "ingredient": "nuts",
+      "name": "METRO Chef Грецкий орех очищенный, 150г",
+      "size": 150,
+      "price": 261,
+      "unit": "г",
+      "weighted": false,
+      "id": "150g-greckij-metro-chef-ochischennyj",
+      "url": "https://online.metro-cc.ru/products/150g-greckij-metro-chef-ochischennyj"
+    }
+  ]
+}
