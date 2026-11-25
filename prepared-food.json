@@ -1,0 +1,93 @@
+{
+  "capturedAt": "2026-11-25T02:50:56.950Z",
+  "mode": "snapshot",
+  "note": "Цены проверены в каталогах магазинов Иркутска. Состав только из карточек товара. При неполном составе и любых исключениях блюдо не предлагается.",
+  "entries": [
+    {
+      "id": "184508",
+      "name": "Оладьи куриные с картофельным пюре",
+      "store": "Слата",
+      "size": 250,
+      "price": 174.99,
+      "family": "patties",
+      "a": [
+        "Яйца",
+        "Глютен",
+        "Молоко"
+      ],
+      "meat": true,
+      "composition": "Оладьи куриные, яйцо куриное, вода питьевая, мука высшего сорта, укроп свежий, соль, перец черный; картофельное пюре, соль.",
+      "completeComposition": false,
+      "ingredient": "ready0",
+      "url": "https://shop.slata.com/product/184508"
+    },
+    {
+      "id": "10036592",
+      "name": "Гуляш из свинины с гречкой",
+      "store": "Слата",
+      "size": 250,
+      "price": 169.99,
+      "family": "buckwheat",
+      "a": [
+        "Глютен",
+        "Молоко",
+        "Яйца",
+        "Рыба",
+        "Горчица",
+        "Сельдерей"
+      ],
+      "meat": true,
+      "composition": "Гречка, лук, подсолнечное масло, соль; свинина, смесь грибов, морковь, лук, пшеничная мука, грибной бульон КНОРР (соль, мальтодекстрин, усилители вкуса, сахар, растительный жир, ароматизаторы, кукурузный крахмал, грибы, лимонная кислота, лук, сахарный колер III, экстракт дрожжей). Возможны следы глютена, горчицы, сельдерея, молочных, яичных и рыбных продуктов.",
+      "completeComposition": true,
+      "ingredient": "ready1",
+      "url": "https://shop.slata.com/product/10036592"
+    },
+    {
+      "id": "10029467",
+      "name": "Жаркое Холодушка по-купечески",
+      "store": "Слата",
+      "size": 250,
+      "price": 199.99,
+      "family": "potato",
+      "a": [],
+      "meat": true,
+      "composition": "Картофель, мясо курицы, морковь, лук репчатый, грибы свежие, соль поваренная пищевая, масло растительное.",
+      "completeComposition": true,
+      "ingredient": "ready2",
+      "url": "https://shop.slata.com/product/10029467"
+    },
+    {
+      "id": "10009246",
+      "name": "Драники",
+      "store": "Слата",
+      "size": 200,
+      "price": 139.99,
+      "family": "potato",
+      "a": [
+        "Глютен",
+        "Яйца",
+        "Молоко"
+      ],
+      "composition": "Картофель свежий, мука высшего сорта, масло подсолнечное рафинированное дезодорированное, майонез, меланж, молоко, лук репчатый, соль.",
+      "completeComposition": true,
+      "ingredient": "ready3",
+      "url": "https://shop.slata.com/product/10009246"
+    },
+    {
+      "id": "plov-s-kuricey-ves-sobstvennoe-pro-vo",
+      "name": "Плов с курицей · собственное производство",
+      "store": "Абсолют",
+      "size": 1000,
+      "price": 729.9,
+      "family": "rice",
+      "a": [],
+      "meat": true,
+      "weighted": true,
+      "portion": 300,
+      "composition": null,
+      "completeComposition": false,
+      "ingredient": "ready4",
+      "url": "https://tgabsolut.shop/catalog?product=plov-s-kuricey-ves-sobstvennoe-pro-vo"
+    }
+  ]
+}

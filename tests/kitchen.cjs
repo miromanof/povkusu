@@ -1,0 +1,4 @@
+const fs=require('fs'),vm=require('vm');const els={};const ctx={console,setTimeout(){},window:{scrollTo(){}},document:{getElementById:id=>els[id]??={style:{},querySelector:()=>null}}};vm.createContext(ctx);vm.runInContext(fs.readFileSync(require('path').join(__dirname,'../index.html'),'utf8').match(/<script>([\s\S]*?)<\/script>/)[1],ctx);vm.runInContext(`
+S.equipment=['Плита'];S.noCook=false;toggleNoCook();if(!S.equipment.includes('Плита')||!S.noCook)throw Error('No-cook cleared equipment');if(!allowed(dishes[2])||!allowed(dishes[4]))throw Error('Mixed cooking unavailable');toggleNoCook();if(allowed(dishes[2])||!allowed(dishes[4]))throw Error('Independent no-cook toggle');
+S.noCook=true;S.equipment=[];if(allowed(dishes[4])||!allowed(dishes[2]))throw Error('Cold-only mode');console.log('PASS: mixed cooking, independent controls, cold-only mode');
+`,ctx);
