@@ -1,0 +1,172 @@
+{
+  "store": "Лента",
+  "city": "Иркутск",
+  "location": "Иркутск, Франк-Каменецкого, 13/1",
+  "source": "https://lenta.com",
+  "capturedAt": "2026-11-25T01:53:05.063Z",
+  "mode": "snapshot",
+  "priceType": "without-loyalty",
+  "automaticUpdates": false,
+  "products": [
+    {
+      "ingredient": "oats",
+      "id": "hlopya-ovsyanye-gerkules-12-mesyacev-rossiya-400g-109708/",
+      "name": "Хлопья овсяные PASSIM Геркулес 12 месяцев 400г",
+      "size": 400,
+      "price": 59.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://lenta.com/product/hlopya-ovsyanye-gerkules-12-mesyacev-rossiya-400g-109708/"
+    },
+    {
+      "ingredient": "rice",
+      "id": "ris-kruglozernyjj-1-sort-rossiya-1000g-710444/",
+      "name": "Рис круглозерный ЛЕНТА 1-й сорт 1000г",
+      "size": 1000,
+      "price": 136.84,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://lenta.com/product/ris-kruglozernyjj-1-sort-rossiya-1000g-710444/"
+    },
+    {
+      "ingredient": "buckwheat",
+      "id": "krupa-grechnevaya-rossiya-1000g-710673/",
+      "name": "Крупа гречневая ЛЕНТА 1000г",
+      "size": 1000,
+      "price": 89.47,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://lenta.com/product/krupa-grechnevaya-rossiya-1000g-710673/"
+    },
+    {
+      "ingredient": "pasta",
+      "id": "makarony-spirali-gra-vs-rossiya-450g-117806/",
+      "name": "Макароны MAKFA Спирали высший сорт 450г",
+      "size": 450,
+      "price": 68.39,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://lenta.com/product/makarony-spirali-gra-vs-rossiya-450g-117806/"
+    },
+    {
+      "ingredient": "milk",
+      "id": "moloko-past-pitevoe-25-pet-bez-zmzh-rossiya-930ml-80424/",
+      "name": "Молоко пастеризованное ПРОСТОКВАШИНО 2,5% 930мл",
+      "size": 930,
+      "price": 110.49,
+      "unit": "мл",
+      "weighted": false,
+      "url": "https://lenta.com/product/moloko-past-pitevoe-25-pet-bez-zmzh-rossiya-930ml-80424/"
+    },
+    {
+      "ingredient": "egg",
+      "id": "yajjco-kurinoe-s1-rossiya-10sht-144782/",
+      "name": "Яйцо куриное 365 ДНЕЙ С1 10шт",
+      "size": 10,
+      "price": 147.39,
+      "unit": "шт",
+      "weighted": false,
+      "url": "https://lenta.com/product/yajjco-kurinoe-s1-rossiya-10sht-144782/"
+    },
+    {
+      "ingredient": "potato",
+      "id": "kartofel-ves-1kg-300886/",
+      "name": "Картофель, весовой",
+      "size": 1000,
+      "price": 48.2,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://lenta.com/product/kartofel-ves-1kg-300886/"
+    },
+    {
+      "ingredient": "carrot",
+      "id": "morkov-ves-1kg-303639/",
+      "name": "Морковь, весовая 0,5 кг",
+      "size": 500,
+      "price": 23.47,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://lenta.com/product/morkov-ves-1kg-303639/"
+    },
+    {
+      "ingredient": "onion",
+      "id": "luk-repchatyjj-ves-1kg-303640/",
+      "name": "Лук репчатый, весовой 0,5 кг",
+      "size": 500,
+      "price": 21.95,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://lenta.com/product/luk-repchatyjj-ves-1kg-303640/"
+    },
+    {
+      "ingredient": "cabbage",
+      "id": "kapusta-belokochannaya-ves-11189/",
+      "name": "Капуста белокочанная, цена за 1 кг",
+      "size": 1000,
+      "price": 45.68,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://lenta.com/product/kapusta-belokochannaya-ves-11189/"
+    },
+    {
+      "ingredient": "tomato",
+      "id": "tomaty-teplichnye-ves-rossiya-135324/",
+      "name": "Томаты тепличные, весовые 0,5 кг",
+      "size": 500,
+      "price": 128.95,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://lenta.com/product/tomaty-teplichnye-ves-rossiya-135324/"
+    },
+    {
+      "ingredient": "cucumber",
+      "id": "ogurcy-sredneplodnye-gladkie-ves-162743/",
+      "name": "Огурцы среднеплодные гладкие, весовые 0,5 кг",
+      "size": 500,
+      "price": 107.89,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://lenta.com/product/ogurcy-sredneplodnye-gladkie-ves-162743/"
+    },
+    {
+      "ingredient": "apple",
+      "id": "yabloki-gala-novyjj-urozhajj-ves-1kg-305270/",
+      "name": "Яблоки Гала, весовые 0,7 кг",
+      "size": 700,
+      "price": 151.05,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://lenta.com/product/yabloki-gala-novyjj-urozhajj-ves-1kg-305270/"
+    },
+    {
+      "ingredient": "banana",
+      "id": "banany-ves-11230/",
+      "name": "Бананы, цена за 1 кг",
+      "size": 1000,
+      "price": 273.68,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://lenta.com/product/banany-ves-11230/"
+    },
+    {
+      "ingredient": "chicken",
+      "id": "file-kurinoe-ohl-podlozhka-ves-rossiya-366090/",
+      "name": "Филе куриное САЯНСКИЙ БРОЙЛЕР, цена за 1 кг",
+      "size": 1000,
+      "price": 647.39,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://lenta.com/product/file-kurinoe-ohl-podlozhka-ves-rossiya-366090/"
+    },
+    {
+      "ingredient": "fish",
+      "id": "mintajj-tihookeanskijj-file-bk-rossiya-300g-616234/",
+      "name": "Минтай замороженный BOREALIS филе без кожи 300г",
+      "size": 300,
+      "price": 284.29,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://lenta.com/product/mintajj-tihookeanskijj-file-bk-rossiya-300g-616234/"
+    }
+  ]
+}
