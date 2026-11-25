@@ -1,0 +1,201 @@
+{
+  "store": "Слата",
+  "city": "Иркутск",
+  "source": "https://shop.slata.com",
+  "capturedAt": "2026-11-25T01:26:55.845Z",
+  "mode": "snapshot",
+  "priceType": "regular",
+  "automaticUpdates": false,
+  "products": [
+    {
+      "ingredient": "oats",
+      "id": "10056049",
+      "name": "Хлопья овсяные Селяночка №3 быстроразваривающиеся 350 гр",
+      "size": 350,
+      "price": 49.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10056049"
+    },
+    {
+      "ingredient": "milk",
+      "id": "07342",
+      "name": "Молоко Российское Янта 2.5% 1л п/п БЗМЖ",
+      "size": 1000,
+      "price": 99.99,
+      "unit": "мл",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/07342"
+    },
+    {
+      "ingredient": "apple",
+      "id": "10014784",
+      "name": "Яблоки первая цена, кг",
+      "size": 1000,
+      "price": 104.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://shop.slata.com/product/10014784"
+    },
+    {
+      "ingredient": "rice",
+      "id": "10055636",
+      "name": "Рис пропаренный Тендер 800 гр",
+      "size": 800,
+      "price": 67.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10055636"
+    },
+    {
+      "ingredient": "chicken",
+      "id": "10047777",
+      "name": "Филе куриное Иркурочкино замороженное",
+      "size": 1000,
+      "price": 599.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://shop.slata.com/product/10047777"
+    },
+    {
+      "ingredient": "carrot",
+      "id": "10009280",
+      "name": "Морковь, кг",
+      "size": 1000,
+      "price": 34.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://shop.slata.com/product/10009280"
+    },
+    {
+      "ingredient": "potato",
+      "id": "10013015",
+      "name": "Картофель желтый отборный, кг",
+      "size": 1000,
+      "price": 59.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://shop.slata.com/product/10013015"
+    },
+    {
+      "ingredient": "onion",
+      "id": "117081",
+      "name": "Лук Репчатый, кг",
+      "size": 1000,
+      "price": 35.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://shop.slata.com/product/117081"
+    },
+    {
+      "ingredient": "lentil",
+      "id": "10056043",
+      "name": "Чечевица Global Village красная 450 гр",
+      "size": 450,
+      "price": 103.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10056043"
+    },
+    {
+      "ingredient": "pasta",
+      "id": "10019375",
+      "name": "Макароны Макфа Триколлини свитки 450 г",
+      "size": 450,
+      "price": 96.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10019375"
+    },
+    {
+      "ingredient": "tomato",
+      "id": "10006587",
+      "name": "Томаты тепличные Россия, кг",
+      "size": 1000,
+      "price": 189.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://shop.slata.com/product/10006587"
+    },
+    {
+      "ingredient": "egg",
+      "id": "10026022",
+      "name": "Яйцо куриное пищевое столовое 2 категории Простой выбор 10шт",
+      "size": 10,
+      "price": 104.9,
+      "unit": "шт",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10026022"
+    },
+    {
+      "ingredient": "buckwheat",
+      "id": "10020985",
+      "name": "Гречка Мистраль ядрица 900г",
+      "size": 900,
+      "price": 166.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10020985"
+    },
+    {
+      "ingredient": "fish",
+      "id": "10035753",
+      "name": "Минтай Бореалис филе без кожи с/м 650 гр м/у",
+      "size": 650,
+      "price": 859.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10035753"
+    },
+    {
+      "ingredient": "beans",
+      "id": "10055385",
+      "name": "Фасоль Global Village белая в с/с 400 гр ключ ж/б",
+      "size": 400,
+      "price": 114.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10055385"
+    },
+    {
+      "ingredient": "banana",
+      "id": "04420",
+      "name": "Банан Эквадор, кг",
+      "size": 1000,
+      "price": 174.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://shop.slata.com/product/04420"
+    },
+    {
+      "ingredient": "yogurt",
+      "id": "10060282",
+      "name": "Йогурт Греческий Янта 10% 190 гр БЗМЖ",
+      "size": 190,
+      "price": 94.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10060282"
+    },
+    {
+      "ingredient": "cucumber",
+      "id": "10006586",
+      "name": "Огурцы Мева, кг",
+      "size": 1000,
+      "price": 169.99,
+      "unit": "г",
+      "weighted": true,
+      "url": "https://shop.slata.com/product/10006586"
+    },
+    {
+      "ingredient": "nuts",
+      "id": "10019062",
+      "name": "Орех гецкий очищенный 200 г",
+      "size": 200,
+      "price": 269.99,
+      "unit": "г",
+      "weighted": false,
+      "url": "https://shop.slata.com/product/10019062"
+    }
+  ]
+}
