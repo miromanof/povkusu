@@ -11,7 +11,7 @@ const sameDishes=[
  [/^(full )?english breakfast$/i,'english-breakfast'],
  [/^salt.*pepper squid|^quick salt.*pepper squid/i,'salt-pepper-squid'],
 ];
-export function dishKey(recipe){const title=recipe.title||'';return sameDishes.find(([pattern])=>pattern.test(title))?.[1]||recipe.dishKey||(title?title.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim():recipe.id);}
+export function dishKey(recipe){if(recipe.dishKey)return recipe.dishKey;const title=recipe.title||'';return sameDishes.find(([pattern])=>pattern.test(title))?.[1]||recipe.dishKey||(title?title.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim():recipe.id);}
 export function isComponent(title,category){
  const t=title.toLowerCase();
  if(/\b(?:bread|flatbreads?|baguette|naan|pita)\b/.test(t)&&!/omelette|omelet|pudding|sandwich/.test(t))return true;
@@ -42,3 +42,5 @@ export function allowedSlots(recipe){
  if(/tortilla|tortang talong|falafel|ful medames|frittata/i.test(recipe.title))return ['breakfast','main'];
  return ['main'];
 }
+
+export function breakfastFormat(r){if(r.source==='Редакция прототипа')return r.family;const t=r.title.toLowerCase();return /porridge|grits|con leche/.test(t)?'porridge':/pancake|nalesnik|waffle|blini|mandazi/.test(t)?'pancakes':/omelet|shaksh|tortilla|tortang|lahsa/.test(t)?'eggs':/falafel|ful medames/.test(t)?'legume-plate':r.family;}

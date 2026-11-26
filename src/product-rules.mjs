@@ -7,6 +7,8 @@ export function productFormMatches(item,spec){
  if(['pecan','almond','walnut','cashew','peanut'].includes(key)&&! /^(?:орех|ядр|пекан|миндаль|кешью|арахис)/.test(n))return false;
  if(/syrup$/.test(key)&&!/^сироп(?:\s|$)/.test(n))return false;
  if(/juice$/.test(key)&&!/^сок(?:\s|$)/.test(n))return false;
+ if(['strawberry','raspberry','blueberry','blackberry','berrymix'].includes(key)&&(!/^(?:клубник|земляник|малин|черник|голубик|ежевик|ягод|смесь ягод)/.test(n)||/варен|варён|джем|сироп|десерт|пюре|конфитюр/.test(n)))return false;
+ if(['millet','manna','cornmeal','buckwheat','bulgur'].includes(key)&&! /^(?:крупа|пшено|манка|полента|гречка|булгур)/.test(n))return false;
  if(/flour$/.test(key)||key==='flour'){if(!/^мука(?:\s|$)/.test(n))return false;}
  if(['rice','brownrice','glutinousrice'].includes(key)&&!/^рис(?:\s|$)/.test(n))return false;
  if(['noodle','ricenoodle','eggnoodle'].includes(key)&&(!/^лапша(?:\s|$)/.test(n)||/быстр|бульон|суп|соус/.test(n)))return false;

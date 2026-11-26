@@ -1,6 +1,6 @@
-import {productFormMatches} from './product-rules.mjs?v=quality-1';
-import {ingredientAliases,extraIngredients,normalizeIngredientName} from './ingredient-aliases.mjs?v=quality-1';
-import {isComponent,missingMainIngredient} from './meal-rules.mjs?v=quality-1';
+import {productFormMatches} from './product-rules.mjs?v=history-1';
+import {ingredientAliases,extraIngredients,normalizeIngredientName} from './ingredient-aliases.mjs?v=history-1';
+import {isComponent,missingMainIngredient} from './meal-rules.mjs?v=history-1';
 // Ingredient names and cooking conversions, not a supermarket product database.
 const rules=[];
 function add(pattern,key,query,{g=100,allergens=[],animal=false,pantry=false,match=null}={}){rules.push({pattern:new RegExp(pattern,'i'),key,query,g,allergens,animal,pantry,match:match?new RegExp(match,'i'):null})}
