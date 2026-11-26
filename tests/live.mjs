@@ -1,12 +1,15 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {gunzipSync} from 'node:zlib';
+import {recipeNames} from '../src/titles-ru.mjs';
 import {ingredient,amount,normalizeMeal,productMatches} from '../src/ingredients.mjs';
 import {mcp,noCardPrice,normalizeProduct,findProduct,clearPrices} from '../src/lenta.mjs';
 import {selectCandidates,neededSpecs,priceRecipes,basket,excluded,portionFactor,buildWeek} from '../src/planner.mjs';
 const p={adults:2,kids:[],meals:3,diet:'Обычное',allergens:[],exclusions:[],equipment:['Плита'],noCook:true,time:60,budget:5000,pantry:true,homeKeys:[]};
 const recipes=JSON.parse(gunzipSync(fs.readFileSync(new URL('../recipe-pool.json.gz',import.meta.url)))).recipes;
 assert.equal(recipes.length,790);assert.equal(new Set(recipes.map(r=>r.id)).size,790);
+assert.equal(Object.keys(recipeNames).length,790);
+for(const recipe of recipes){assert.ok(recipeNames[recipe.id],`Missing Russian title for ${recipe.id}`);assert.ok(/[А-Яа-яЁё]/.test(recipeNames[recipe.id]));assert.ok(!/[A-Za-z]/.test(recipeNames[recipe.id]));}
 assert.equal(ingredient('Garlic cloves').key,'garlic');assert.equal(ingredient('Eggplant').key,'eggplant');assert.equal(ingredient('Apple Cider Vinegar').key,'vinegar');assert.equal(ingredient('Butter Beans').key,'beans');assert.equal(ingredient('Black Eyed Peas'),null);
 assert.equal(productMatches({name:'Хинкали с говядиной и бараниной'},ingredient('Lamb')),false);
 assert.equal(productMatches({name:'Фарш из свинины и говядины'},ingredient('Pork')),false);
